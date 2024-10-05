@@ -1,1 +1,7 @@
-
+env
+env/*
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+.virtual_documents
+.virtual_documents/*
+preprocessed_data_full.pkl
